@@ -21,7 +21,7 @@ s.homepage = "https://github.com/steffenbirkis/Axe"
 
 # 6 - Replace this URL with your own Git URL from "Quick Setup"
 s.source = { :git => "https://github.com/steffenbirkis/Axe.git",
-             :tag => "#{s.version}" }
+             :tag => "0.1.0" }
 
 # 7
 s.framework = "UIKit"
